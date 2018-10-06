@@ -4,4 +4,4 @@ A corner shelf shaped like a rocket. The picture is of initial design. The curre
 
 Created with Librecad and laserweb 4.0
 
-![image][mainpicture.jpg]
+![image](https://github.com/MaslowCommunityGarden/Rocket-Corner-Shelf-with-flame-/blob/master/mainpicture.jpg?raw=true)
